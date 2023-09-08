@@ -1,0 +1,34 @@
+{
+    "hotels": [
+        {
+            "id": 1,
+            "name": "Hotel Ritz",
+            "description": "Hotel de Lujo",
+            "img": "/img/hotel1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Hotel Paradise",
+            "description": "Un oasis en la ciudad",
+            "img": "/img/hotel2.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Hotel Serenity",
+            "description": "Tranquilidad y comodidad",
+            "img": "/img/hotel3.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Hotel Vista Hermosa",
+            "description": "Vistas panorámicas espectaculares",
+            "img": "/img/hotel4.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Hotel Luna Azul",
+            "description": "Un refugio junto al mar",
+            "img": "/img/hotel5.jpg"
+        }
+    ]
+}
